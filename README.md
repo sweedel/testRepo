@@ -1,4 +1,4 @@
 # testRepo
 Im learning github
 
-Hi i want to learn git
+Hi i want to learn github
